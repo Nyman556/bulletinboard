@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "question": "Vad är tre fördelar med att använda React?",
+      "answer1": "Återanvändbarhet",
+      "answer2": "Enkelt att underhålla",
+      "answer3": "Cross Platform",
+      "isLiked": false
+    },
+    {
+      "id": 2,
+      "question": "Vad är tre nackdelar med att använda React?",
+      "answer1": "JSX anses vara en barriär, JSX har en djupare inlärningskurva vilket gör att utvecklare ser det som en barriär",
+      "answer2": "Dålig Dokumentation. Pågrund av konstant utveckling så kan dokumentationen ibland bli utdaterad och det är svårt att hitta rätt information",
+      "answer3": "stöds inte i någon webbläsare äldre än IE8",
+      "isLiked": false
+    },
+    {
+      "id": 3,
+      "question": "Vad är tre skillnader mellan React och Angular?",
+      "answer1": "Angular är baserat på Typescript och React är baserat på Javascript.",
+      "answer2": "AngularJS är ett strukturellt ramverk för att utveckla dynamiska web appar, medans React är ett javascriptbibliotek som tillåter dig att bygga UI componenter.",
+      "answer3": "AngularJS är baserat på MVC (Model View Controller) medans React är baserat på Virtual DOM.",
+      "isLiked": false
+    },
+    {
+      "id": 4,
+      "question": "Vad är tre bibliotek man kan använda med React?",
+      "answer1": "Material UI",
+      "answer2": "React-motion",
+      "answer3": "Stripe",
+      "isLiked": false
+    }
+  ]
+}
